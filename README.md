@@ -1,0 +1,2 @@
+# spamvk
+Vk-Spam-Comments
